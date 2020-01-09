@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_simple_sitemap_url_generators_alter().
+ */
+function sitemap_user_simple_sitemap_url_generators_alter(array &$generators) {
+  $generators['entity']['class'] = 'Drupal\\sitemap_user\\EntityUrlGenerator';
+}

@@ -1,0 +1,9 @@
+name: Sitemap Custom user
+type: module
+description: Provides an different user than the anonymous user to the simple sitemap module. It uses the api key authentication module to find the correct user.
+core: 8.x
+package: Custom
+
+dependencies:
+  - simple_sitemap
+  - services_api_key_auth

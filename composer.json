@@ -1,0 +1,15 @@
+{
+  "name": "hoppinger/sitemap_user",
+  "description": "Provides an different user than the anonymous user to the simple sitemap module. It uses the api key authentication module to find the correct user",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/hoppinger/sitemap_user",
+  "authors": [
+    {
+      "name": "Rolf van de Krol",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {}
+}
