@@ -9,6 +9,10 @@
     {
       "name": "Rolf van de Krol",
       "role": "Maintainer"
+    },
+    {
+      "name": "Ashwini Mone",
+      "role": "Maintainer"
     }
   ],
   "require": {}
